@@ -1,0 +1,8 @@
+{
+  "name": "mark1-util-ts",
+  "version": "0.0.1",
+  "main": "index.ts",
+  "repository": "https://github.com/ryo-arima/mark1-util-ts",
+  "author": "ryo.arima.zzz@gmail.com",
+  "license": "MIT"
+}
